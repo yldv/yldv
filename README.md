@@ -13,12 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">🚗 Porsche 911: The Timeless Icon of Speed and Style</h1>
+![3175929070](https://github.com/user-attachments/assets/7b69fb54-69b5-4c14-9fef-def252234f77)
 
-<p align="center">
-  <img src="![git](https://github.com/user-attachments/assets/21337f19-8e7e-496a-9808-d8b08f0e8b22)" alt="Porsche 911" width="600"/>
-</p>
-
-<p align="center">
-  Driven by passion, loved by legends. The Porsche 911 continues to dominate hearts and streets alike in 2025. 🏎️💨
-</p>
