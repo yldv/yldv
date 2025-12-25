@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">🚗 Porsche vibes only</h1>
+<h1 align="center">🚗 Porsche 911: The Timeless Icon of Speed and Style</h1>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5hN2RlcjhodzBtajhld2FwMTloaDE1Z3J1aGNrbG4yMDI4dnZveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MgQDiH1UjsW25PFiyb/giphy.gif" width="600"/>
+</p>
+
+<p align="center">
+  Driven by passion, loved by legends. The Porsche 911 continues to dominate hearts and streets alike in 2025. 🏎️💨
 </p>
